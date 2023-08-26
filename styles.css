@@ -289,56 +289,7 @@
     font-style: normal;
   }
   /* clients */
-  /* services */
-.services .box-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 4rem;
-  }
-  
-  .services .box-container .box {
-    background-color: var(--light-bg);
-    padding: 2.5rem;
-    text-align: center;
-    box-shadow: var(--box-shadow);
-  }
-  
-  .services .box-container .box .icon {
-    font-size: 4rem;
-    color: var(--light-bg);
-    background-color: var(--yellow);
-    padding: 2.5rem;
-    border-radius: 50%;
-    margin-bottom: 2rem;
-  }
-  
-  .services .box-container .box h2 {
-    font-size: 2rem;
-    color: var(--white);
-    font-weight: 400;
-    margin-bottom: 2rem;
-  }
-  
-  .services .box-container .box p {
-    font-size: 1.7rem;
-    color: var(--dark-gray);
-    margin-bottom: 2rem;
-    line-height: 1.5;
-    text-transform: none;
-    letter-spacing: 0.1rem;
-  }
-  
-  .services .box-container .box .btn-2 {
-    font-size: 1.7rem;
-    color: var(--yellow);
-    display: flex;
-    justify-content: center;
-  }
-  
-  .services .box-container .box .btn-2:hover i {
-    padding-left: 1.5rem;
-  }
-  /* services */
+
   /* blogs */
 .blogs .box-container .box .image {
     height: 30rem;

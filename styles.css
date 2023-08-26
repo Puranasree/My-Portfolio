@@ -209,59 +209,7 @@
     transform: translateY(0);
   }
   /* portfolio */
-  /* resume */
-.resume .col-container .col .box {
-    background-color: var(--light-bg);
-    padding: 2.5rem;
-    margin: 2rem 0;
-    box-shadow: var(--box-shadow);
-  }
-  
-  .resume .col-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 4rem;
-  }
-  
-  .resume .col-container .col h2 {
-    font-size: 2.5rem;
-    color: var(--white);
-    font-weight: 200;
-    padding-bottom: 2rem;
-  }
-  
-  .resume .col-container .col .box span {
-    color: var(--white);
-    font-size: 1.7rem;
-    display: flex;
-    align-items: center;
-  }
-  
-  .resume .col-container .col .box span i {
-    padding-right: 0.5rem;
-    font-size: 1.7rem;
-  }
-  
-  .resume .col-container .col .box h3 {
-    color: var(--yellow);
-    font-size: 2rem;
-    margin-top: 1rem;
-    font-weight: 400;
-  }
-  
-  .resume .col-container .col .box p {
-    font-size: 1.7rem;
-    color: var(--dark-gray);
-    margin-top: 1rem;
-    line-height: 1.5;
-    text-transform: none;
-  }
-  
-  .resume .col-container .col .box .university {
-    color: var(--light-gray);
-    text-transform: capitalize;
-  }
-  /* resume */
+
   /* about */
 .about .box-container .box .image {
     height: 100%;

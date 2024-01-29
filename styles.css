@@ -336,8 +336,7 @@
     color: var(--yellow);
     cursor: pointer;
   }
-  /* blogs */
-  /* contact */
+
 .contact .col-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
@@ -350,7 +349,6 @@
     font-weight: 200;
     padding-bottom: 5rem;
   }
-  
   .contact .col-container .col input,
   .contact .col-container .col textarea {
     background-color: var(--light-bg);
@@ -375,8 +373,7 @@
     color: var(--dark-gray);
     letter-spacing: 0.1rem;
   }
-  /* contact */
-  /* footer */
+
 .footer {
     border-top: 0.2rem solid var(--light-bg);
     text-align: center;
@@ -397,8 +394,7 @@
     color: var(--dark-gray);
     margin-top: 3rem;
   }
-  /* footer */
-  /* media queries */
+
 @media (max-width: 1200px) {
     .header {
       padding: 3rem 2rem;

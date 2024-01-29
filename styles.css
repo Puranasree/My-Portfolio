@@ -70,7 +70,7 @@
     display: inline-block;
     margin-top: 1rem;
   }
-  /* home */
+
 .home {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/hero-image.jpeg');
@@ -104,8 +104,7 @@
     text-transform: uppercase;
     letter-spacing: 0.3rem;
   }
-  /* home */
-  /* header */
+
 .header {
     position: fixed;
     top: 0;
@@ -154,8 +153,7 @@
     text-align: left;
     display: none;
   }
-  /* header */
-  /* portfolio */
+
 .portfolio .box-container .box .image {
     height: 30rem;
     overflow: hidden;
